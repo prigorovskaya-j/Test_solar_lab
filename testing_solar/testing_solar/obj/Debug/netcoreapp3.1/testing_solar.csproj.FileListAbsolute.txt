@@ -1,0 +1,13 @@
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.exe
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.deps.json
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.runtimeconfig.json
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.runtimeconfig.dev.json
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.dll
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\bin\Debug\netcoreapp3.1\testing_solar.pdb
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.csprojAssemblyReference.cache
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.AssemblyInfoInputs.cache
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.AssemblyInfo.cs
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.csproj.CoreCompileInputs.cache
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.dll
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.pdb
+C:\Users\prigo\Downloads\Test_solar_lab\Test_solar_lab\testing_solar\testing_solar\obj\Debug\netcoreapp3.1\testing_solar.genruntimeconfig.cache

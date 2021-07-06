@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\prigo\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\prigo\\.nuget\\packages"
+    ]
+  }
+}
